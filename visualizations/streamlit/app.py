@@ -20,8 +20,8 @@ from utils.scam_algorithm import get_district_ci, calculate_scam_properties
 
 # Directory pathing
 curr_dir = os.path.dirname(__file__)
-merged_dataset_path = os.path.relpath('C:/Users/Dell User/OneDrive/Desktop/ParisFrance/ParisFranceChapter_HousingAffordabilityAnalysis/src/visualizations/streamlit/data/merged_dataset.xlsx', start=curr_dir)
-geojson_path = os.path.relpath('C:/Users/Dell User/OneDrive/Desktop/ParisFrance/ParisFranceChapter_HousingAffordabilityAnalysis/src/visualizations/streamlit/data/paris_arrondisements.geojson')
+merged_dataset_path = os.path.relpath('./visualizations/streamlit/data/merged_dataset.xlsx', start=curr_dir)
+geojson_path = os.path.relpath('./visualizations/streamlit/data/paris_arrondisements.geojson')
 
 # Page configs
 st.set_page_config(
