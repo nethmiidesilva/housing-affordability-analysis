@@ -1,6 +1,6 @@
 # Paris Housing Affordability Analysis  
 
-This repository contains tools developed under the **Paris France Chapter** of the open-source platform **Omdena**. The project aims to analyze housing affordability and provide interactive tools to explore housing prices and characteristics across Paris, France.
+This repository contains tools developed under **Paris, France Local Chapter** of the open-source platform **Omdena**. The project aims to analyze housing affordability and provide interactive tools to explore housing prices and characteristics across Paris, France.
 
 ## **Project Outcomes**
 1. **Power BI Dashboard**  
