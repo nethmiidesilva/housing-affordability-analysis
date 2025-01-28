@@ -33,4 +33,7 @@ To view the Power BI Dashboard:
 2. Interact with the visualizations for detailed insights.
 
 ### **Streamlit App**
-To run the Streamlit App clone the repository
+To run the Streamlit App:
+1. Clone the repository.
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the app: `streamlit run app.py`
