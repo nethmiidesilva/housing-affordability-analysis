@@ -18,9 +18,6 @@ The dataset used for this dashboard includes various attributes related to housi
  
 ## Getting Started
 To view or modify this dashboard:
-
-1/ Clone this repository to your local machine.
-
-2/ Open the Power BI file associated with this project.
-
-3/ Customize the filters and visuals as needed.
+1. Clone this repository to your local machine.
+2. Open the Power BI file associated with this project.
+3. Customize the filters and visuals as needed.
